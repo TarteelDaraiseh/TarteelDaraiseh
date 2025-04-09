@@ -28,7 +28,7 @@
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn – Tarteel Daraiseh](https://www.linkedin.com/in/tarteel-daraiseh)
+- 💼 [LinkedIn – Tarteel Daraiseh](https://www.linkedin.com/in/tarteel-daraiseh-458611297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: aldraysttrtyl@gmail.com 
 - 💻 GitHub: [github.com/TarteelDaraiseh](https://github.com/TarteelDaraiseh)
 
