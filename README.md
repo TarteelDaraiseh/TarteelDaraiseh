@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Tarteel Daraiseh</h1>
 
-<!--
-**TarteelDaraiseh/TarteelDaraiseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Software Engineering Graduate • 💼 Working at Jordan Valley Authority • 🔍 QA/QC Trainee at AppTrainer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- 💻 Passionate about building real-world applications and delivering quality software.
+- 🏢 Currently working at the **Jordan Valley Authority**, contributing to digital governmental systems.
+- 🧪 Training as a **Quality Assurance and Quality Control Specialist** at **AppTrainer**.
+- 🚀 Interested in Agile methodologies, testing strategies, and software lifecycle improvement.
+
+---
+
+### 🛠 Tech Stack & Skills
+
+- 📋 **QA/QC Tools**: Manual Testing, Test Case Design, Bug Reporting  
+- 💡 **Languages**: Java, SQL, HTML/CSS, Java script, python   
+- 🧰 **Tools**: Git, GitHub, Jira, Oracle Forms & Reports 6i  
+- 🌐 **Web**: Building secure login systems, database integration
+
+---
+
+
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn – Tarteel Daraiseh](https://www.linkedin.com/in/tarteel-daraiseh)
+- 📧 Email: aldraysttrtyl@gmail.com 
+- 💻 GitHub: [github.com/TarteelDaraiseh](https://github.com/TarteelDaraiseh)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Tarteel's GitHub stats" />
+</p>
+
